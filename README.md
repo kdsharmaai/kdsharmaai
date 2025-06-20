@@ -48,7 +48,7 @@ My proven track record includes designing, building, and deploying scalable ML m
   Proficient in Python, Pandas, NumPy, Scikit-learn, Keras, TensorFlow, and more.
 
 - **AI Agents (Agentic AI) & LangGraph:**  
-  Deep expertise in building, orchestrating, and deploying AI agents using the latest Agentic AI frameworks and LangGraph technology[1].  
+  Deep expertise in building, orchestrating, and deploying AI agents using the latest Agentic AI frameworks and LangGraph technology.  
   Skilled in leveraging these tools for advanced automation and intelligent business solutions.
 
 - **Cloud & AI Integration:**  
