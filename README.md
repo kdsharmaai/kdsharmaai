@@ -87,7 +87,7 @@ My proven track record includes designing, building, and deploying scalable ML m
   From data engineering to model deployment and agentic workflows, I ensure seamless integration of AI solutions into business processes.
 
 - **Cutting-Edge Knowledge:**  
-  Stay ahead of the curve with the latest advancements in AI, ML, Agentic AI, LangGraph, and cloud technologies[1].
+  Stay ahead of the curve with the latest advancements in AI, ML, Agentic AI, LangGraph, and cloud technologies.
 
 ---
 
