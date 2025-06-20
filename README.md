@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-green" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-14%2B%20years-blue" />
+  <img src="https://img.shields.io/badge/AI%20and%20Software%20Engineer-14%2B%20years-blue" />
   <img src="https://img.shields.io/badge/AWS%20Certified-4x-yellow" />
   <img src="https://img.shields.io/badge/Kaggle-3x%20Expert-orange" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Expert-purple" />
