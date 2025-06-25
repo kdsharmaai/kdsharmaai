@@ -92,7 +92,9 @@ My proven track record includes designing, building, and deploying scalable ML m
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kdsharmaai/kdsharmaai/refs/heads/main/Kiran-Sharma-Credly-SS.png" />
+  <a href="https://www.credly.com/users/kiran-sharma.0c71f2f6" target="_blank">
+    <img src="https://raw.githubusercontent.com/kdsharmaai/kdsharmaai/refs/heads/main/Kiran-Sharma-Credly-SS.png" />
+  </a>
 </p>
 
 <p align="center">
