@@ -92,8 +92,11 @@ My proven track record includes designing, building, and deploying scalable ML m
 ---
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/kdsharmaai/kdsharmaai/refs/heads/main/Kiran-Sharma-Credly-SS.png" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kd-sharma-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-
-
+</p>
